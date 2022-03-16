@@ -1,0 +1,58 @@
+.renderGifDiv {
+  width: 50%;
+  margin-left: 80px;
+}
+.postAndOnlyMeMainDiv {
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: flex-end;
+}
+.onlyMe {
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.post {
+  background-color: blue;
+  width: 100px;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 10px;
+}
+.gifSearchMainDiv {
+  margin-left: 80px;
+  width: 50%;
+}
+.gifSearchBox {
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.goBtn {
+  padding: 5px;
+}
+.goBtn:hover {
+  background-color: darkgreen;
+  color: white;
+}
+.mainDiv {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tagDiv {
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+.mainTextField {
+  width: 100%;
+  margin-bottom: "15%";
+}
+.inputDataDiv {
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 30%;
+  margin: auto;
+  margin-bottom: 10px;
+}
